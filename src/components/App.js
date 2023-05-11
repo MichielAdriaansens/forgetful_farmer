@@ -18,7 +18,7 @@ function App() {
       </header>
       {!gameStart ? (
         <img
-          src={`${process.env.PUBLIC_URL}images/American_Gothic.jpg`}
+          src={`${process.env.PUBLIC_URL}/images/American_Gothic.jpg`}
           alt='intro img'
           className='introImg clickable'
           onClick={onClickHandler}

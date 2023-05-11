@@ -1,6 +1,6 @@
 {
-  "homepage": "https://MichielAdriaansens.github.io/forgetful_farmer",
-  "name": "new_project",
+  "homepage": "https://michieladriaansens.github.io/forgetful_farmer",
+  "name": "forgetful_farmer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
