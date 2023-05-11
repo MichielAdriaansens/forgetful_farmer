@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/forgetful_farmer/static/css/main.861681e2.css",
+    "main.js": "/forgetful_farmer/static/js/main.0bb290ef.js",
+    "index.html": "/forgetful_farmer/index.html",
+    "main.861681e2.css.map": "/forgetful_farmer/static/css/main.861681e2.css.map",
+    "main.0bb290ef.js.map": "/forgetful_farmer/static/js/main.0bb290ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.861681e2.css",
+    "static/js/main.0bb290ef.js"
+  ]
+}
